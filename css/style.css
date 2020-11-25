@@ -44,5 +44,29 @@ h1 a:hover{
     clear: both;
 }
 .lugares{
+    width: 700px;
+    float: left;
 
+}
+.lateral h3{
+    font-size: 14px;
+    margin-top: 0;
+}
+.lateral {
+    background-color: #8ee4af;
+    border-color: 1px solid #379683;
+    padding: 10px;
+    width: 200px;
+    float: right;
+}
+.lateral h3{
+    font-size: 14px;
+    margin-top: 0;
+}
+.lateral ol{
+    font-size: 12px;
+}
+.rodape{
+    font-size: 12px;
+    text-align: center;
 }
